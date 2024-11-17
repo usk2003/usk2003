@@ -1,6 +1,6 @@
 # 🌟 Urlana Suresh Kumar  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=usk2003&color=blue)
 
 🎓 3rd-Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
 💡 Passionate about Problem Solving, AI/ML, and Full-Stack Development  
@@ -16,25 +16,22 @@
   - Programming: `C++`, `Python`, `Java`, `JavaScript`, `Go`  
   - Web Development: `HTML`, `CSS`, `Bootstrap`, `ReactJS`, `NodeJS`, `MySQL`, `MongoDB`  
   - Tools: `Tableau`, `PowerBI`, `Jupyter Notebook`  
-  - Platforms: `LeetCode` (Rating: 1565), `CodeChef` (Rating: 1537)  
+  - Platforms: `LeetCode` (Rating: 1590), `CodeChef` (Rating: 1539)  
 
 ---
 
 ## 🛠️ Projects  
 
-- [Personalized Travel Recommendation System](https://github.com/your-github-username/Travel-Recommendation-System)  
-- [AI Virtual Mouse](https://github.com/your-github-username/AI-Virtual-Mouse)  
-- [Event Management System](https://github.com/your-github-username/Event-Management-System)  
+- [AI Trip Planner](https://github.com/usk2003/Travel-Recommendation-System)  
+- [AI Virtual Mouse](https://github.com/usk2003/AI-Virtual-Mouse)   
 
-Explore more projects in my [Repositories](https://github.com/your-github-username?tab=repositories)!  
+Explore more projects in my [Repositories](https://github.com/usk2003?tab=repositories)!  
 
 ---
 
 ## 🎖️ Achievements  
 
-- 🏆 **100 Days CodeChef Streak** | LeetCode & CodeChef Max Ratings: `1565` & `1537`  
-- 🥇 Telangana Government Scholarship (Top 1% Intermediate Ranker)  
-- ✨ Winner of Software Hackathons (Convergence 2k23R, VNR Krithothon 2.0)  
+- 🏆 **100 Days CodeChef Streak** | LeetCode & CodeChef Max Ratings: `1590` & `1539`  
 
 ---
 
@@ -47,15 +44,17 @@ Explore more projects in my [Repositories](https://github.com/your-github-userna
 ---
 
 ## 📫 Let's Connect  
-
-- 🌐 [Portfolio](https://your-portfolio-link)  
-- 📧 Email: your-email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
+ 
+- 📧 Email: urlanasureshkumar@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/usk2003)  
+- 🐦 [Twitter](https://twitter.com/_usk2003)  
 
 ---
 
-### 👩‍💻 Coding Stats  
+## 🌐 Coding Profiles
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+- **LeetCode**: [usk2003 - LeetCode Profile](https://leetcode.com/u/usk2003/)
+- **Codeforces**: [usk2003 - Codeforces Profile](https://codeforces.com/profile/usk2003)
+- **CodeChef**: [usk2003 - CodeChef Profile](https://www.codechef.com/users/usk2003)
+- **Smart Interviews**: [usk2003 - Smart Interviews Profile](https://smartinterviews.in/profile/usk2003)
+ 
