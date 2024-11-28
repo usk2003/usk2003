@@ -1,9 +1,5 @@
 # 🌟 Urlana Suresh Kumar  
 
-![Profile Views](https://komarev.com/ghpvc/?username=usk2003&color=blue)  
-![GitHub Contributions](https://img.shields.io/badge/Contributions-1000%2B-brightgreen)  
-![Languages Used](https://img.shields.io/badge/Languages-C++%2C%20Python%2C%20Java%2C%20JavaScript%2C%20Go-blueviolet)  
-
 🎓 3rd-Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
 💡 Passionate about Problem Solving, AI/ML, and Full-Stack Development  
 ✨ Currently exploring innovative projects and sharpening coding skills  
