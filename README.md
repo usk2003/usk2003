@@ -20,8 +20,9 @@
 
 ## 🛠️ Projects  
 
-- [AI Trip Planner](https://github.com/usk2003/Travel-Recommendation-System)  
-- [AI Virtual Mouse](https://github.com/usk2003/AI-Virtual-Mouse)  
+- [AI Trip Planner](https://github.com/usk2003/AI-TripPlanner)  
+- [AI Virtual Mouse](https://github.com/usk2003/AI-VirtualMouse)
+- [AI TicTacToe](https://github.com/usk2003/AI-TicTacToe)
 
 Explore more projects in my [Repositories](https://github.com/usk2003?tab=repositories)!  
 
