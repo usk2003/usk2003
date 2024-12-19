@@ -21,10 +21,29 @@
 ## 🛠️ Projects  
 
 - [AI Trip Planner](https://github.com/usk2003/AI-TripPlanner)  
-- [AI Virtual Mouse](https://github.com/usk2003/AI-VirtualMouse)
-- [AI TicTacToe](https://github.com/usk2003/AI-TicTacToe)
+- [AI Virtual Mouse](https://github.com/usk2003/AI-VirtualMouse)  
+- [AI TicTacToe](https://github.com/usk2003/AI-TicTacToe)  
+- [Real-Time Chat Application](https://github.com/usk2003/Real-Time-Chat-Application-Using-TCP-IP)  
+- [Suffix Tree Visualizer](https://github.com/usk2003/SuffixTreeVisualizer)  
+- [Video Game Sales Prediction](https://github.com/usk2003/VideoGameSalesPrediction)  
+- [Weather Data Analysis in Szeged (2006-2016)](https://github.com/usk2003/WeatherDataAnalysis-Szeged)  
+- [Telephone Directory using Linked List](https://github.com/usk2003/TelephoneDirectory-LinkedList)  
+- [Flight Delay Analysis Dashboard](https://github.com/usk2003/FlightDelay-Dashboard)  
 
 Explore more projects in my [Repositories](https://github.com/usk2003?tab=repositories)!  
+ 
+---
+
+## 🖥 Laboratories  
+
+- [Laboratory 05 - Machine Learning](https://github.com/usk2003/Lab-MachineLearning)
+- [Laboratory 05 - Operating System](https://github.com/usk2003/Lab-OperatingSystems)
+- [Laboratory 05 - Computer Networks](https://github.com/usk2003/Lab-ComputerNetworks)   
+- [Data Structures Laboratory](https://github.com/usk2003/DS-Lab)  
+- [Python Programming Laboratory](https://github.com/usk2003/Python-Lab)  
+
+
+These repositories include programs and implementations performed during college under the R22 CSE-AIML curriculum at VNR Vignana Jyothi Institute of Engineering and Technology, regulated by JNTU-Hyderabad.  
 
 ---
 
