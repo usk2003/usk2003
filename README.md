@@ -34,26 +34,6 @@ Explore more projects in my [Repositories](https://github.com/usk2003?tab=reposi
  
 ---
 
-## 🖥 Laboratories  
-
-- **Laboratory 05** : [Machine Learning](https://github.com/usk2003/Lab-MachineLearning)
-- **Laboratory 05** : [Operating System](https://github.com/usk2003/Lab-OperatingSystems)
-- **Laboratory 05** : [Computer Networks](https://github.com/usk2003/Lab-ComputerNetworks)
-- **Laboratory 04** : [Data Engineering](https://github.com/usk2003/Lab-DataEngineering)
-- **Laboratory 04** : [Compiler Design](https://github.com/usk2003/Lab-CompilerDesign)
-- **Laboratory 04** : [Software Engineering](https://github.com/usk2003/SoftwareEngineering)
-- **Laboratory 04** : [Data Visualization](https://github.com/usk2003/Lab-DataVisualization)
-- **Laboratory 03** : [DataBase Management System](https://github.com/usk2003/Lab-DataBaseManagementSystem)
-- **Laboratory 03** : [Java Programming](https://github.com/usk2003/Lab-JavaProgramming)
-- **Laboratory 03** : [Python Programming](https://github.com/usk2003/Lab-PythonProgramming)  
-- **Laboratory 02** : [Data Structures in C](https://github.com/usk2003/Lab-DataStructures)
-- **Laboratory 02** : [Engineering Drawing](https://github.com/usk2003/Lab-EngineeringDrawing)
-- **Laboratory 01** : [C Programming](https://github.com/usk2003/Lab-CProgramming)
-
-These repositories include programs and implementations performed during college under the R22 CSE-AIML curriculum at VNR Vignana Jyothi Institute of Engineering and Technology, regulated by JNTU-Hyderabad.  
-
----
-
 ## 🎖️ Achievements  
 
 - 🏆 **100 Days CodeChef Streak** | LeetCode & CodeChef Max Ratings: `1623` & `1539`  
