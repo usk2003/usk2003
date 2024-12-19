@@ -17,19 +17,3 @@
   - Platforms: `LeetCode` (Rating: 1623), `CodeChef` (Rating: 1539)  
 
 ---
-
-
-## 📫 Let's Connect  
- 
-- 📧 **Email**: urlanasureshkumar@gmail.com  
-- 💼 **LinkedIn** : https://linkedin.com/in/usk2003 
-- 🐦 **Twitter** : https://twitter.com/_usk2003
-
----
-
-## 🌐 Coding Profiles
-
-- **usk2003 - LeetCode** : https://leetcode.com/u/usk2003
-- **usk2003 - Codeforces** : https://codeforces.com/profile/usk2003  
-- **usk2003 - CodeChef** : https://www.codechef.com/users/usk2003
-- **usk2003 - Smart Interviews** : https://smartinterviews.in/profile/usk2003 
