@@ -18,47 +18,18 @@
 
 ---
 
-## 🛠️ Projects  
-
-- [AI Trip Planner](https://github.com/usk2003/AI-TripPlanner)  
-- [AI Virtual Mouse](https://github.com/usk2003/AI-VirtualMouse)  
-- [AI TicTacToe](https://github.com/usk2003/AI-TicTacToe)  
-- [Real-Time Chat Application](https://github.com/usk2003/Real-Time-Chat-Application-Using-TCP-IP)  
-- [Suffix Tree Visualizer](https://github.com/usk2003/SuffixTreeVisualizer)  
-- [Video Game Sales Prediction](https://github.com/usk2003/VideoGameSalesPrediction)  
-- [Weather Data Analysis in Szeged (2006-2016)](https://github.com/usk2003/WeatherDataAnalysis-Szeged)  
-- [Telephone Directory using Linked List](https://github.com/usk2003/TelephoneDirectory-LinkedList)  
-- [Flight Delay Analysis Dashboard](https://github.com/usk2003/FlightDelay-Dashboard)  
-
-Explore more projects in my [Repositories](https://github.com/usk2003?tab=repositories)!  
- 
----
-
-## 🎖️ Achievements  
-
-- 🏆 **100 Days CodeChef Streak** | LeetCode & CodeChef Max Ratings: `1623` & `1539`  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced Data Structures and Algorithms  
-- Cloud Technologies  
-- Deep Learning and AI Innovations  
-
----
 
 ## 📫 Let's Connect  
  
-- 📧 Email: urlanasureshkumar@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/usk2003 
-- 🐦 Twitter: https://twitter.com/_usk2003
+- 📧 **Email**: urlanasureshkumar@gmail.com  
+- 💼 **LinkedIn** : https://linkedin.com/in/usk2003 
+- 🐦 **Twitter** : https://twitter.com/_usk2003
 
 ---
 
 ## 🌐 Coding Profiles
 
-- **LeetCode**: [usk2003 - LeetCode Profile](https://leetcode.com/u/usk2003/)  
-- **Codeforces**: [usk2003 - Codeforces Profile](https://codeforces.com/profile/usk2003)  
-- **CodeChef**: [usk2003 - CodeChef Profile](https://www.codechef.com/users/usk2003)  
-- **Smart Interviews**: [usk2003 - Smart Interviews Profile](https://smartinterviews.in/profile/usk2003)  
+- **usk2003 - LeetCode** : https://leetcode.com/u/usk2003
+- **usk2003 - Codeforces** : https://codeforces.com/profile/usk2003  
+- **usk2003 - CodeChef** : https://www.codechef.com/users/usk2003
+- **usk2003 - Smart Interviews** : https://smartinterviews.in/profile/usk2003 
