@@ -1,5 +1,4 @@
 # 🌟 Urlana Suresh Kumar  
-## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=usk2003)
 
 🎓 3rd-Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
