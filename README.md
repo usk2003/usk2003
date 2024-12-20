@@ -17,3 +17,14 @@
   - Platforms: `LeetCode` (Rating: 1623), `CodeChef` (Rating: 1539)  
 
 ---
+## GitHub Stats
+
+![usk2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=usk2003&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usk2003&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊
