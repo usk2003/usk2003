@@ -19,11 +19,11 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usk2003&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usk2003&theme=tokyonight" />
-</p>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=usk2003&count_private=true&theme=react&border_radius=10" alt="streak stats detailed" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=usk2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats detailed" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usk2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+</div>
 
 ---
 Thanks for visiting my profile! Have a great day! 😊
