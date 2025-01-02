@@ -1,10 +1,6 @@
 # 🌟 Urlana Suresh Kumar  
 ![Profile Views](https://komarev.com/ghpvc/?username=usk2003)  
 
-<p align="center">
-  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/usk2003?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap - Username: usk2003" />  
-</p>
-
 🎓 3rd-Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
 💡 Passionate about Problem Solving, AI/ML, and Full-Stack Development  
 ✨ Currently exploring innovative projects and sharpening coding skills  
