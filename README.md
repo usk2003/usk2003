@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=usk2003)  
 
 <p align="center">
-  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/usk2003?theme=dark&font=Nunito&ext=heatmap" />  
 </p>  
 
 🎓 3rd-Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
