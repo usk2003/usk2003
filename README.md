@@ -18,7 +18,7 @@
   - Platforms: `LeetCode` (Rating: 1623), `CodeChef` (Rating: 1539)  
 
 ---
-
+<!---
 ## 📊 Stats  
 
 ### 🔥 Streak Stats  
@@ -27,7 +27,9 @@
 ### 💻 GitHub Stats  
 ![readme stats](https://github-readme-stats.vercel.app/api?username=usk2003&show_icons=true&theme=react&rank_icon=github&border_radius=10)  
 
-### 🌐 Top Languages  
+--->
+
+## 🌐 Top Languages  
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usk2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)  
 
 ---
