@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 
-- 🎯 **EAMCET Rank**: 2591 | **CGPA**: 8.89 (4th Semester)  
+- 🎯 **EAMCET Rank**: 2591 | **CGPA**: 8.89 (till 5th Semester)  
 - 📚 **Education**: Pursuing B.Tech in CSE (AIML)  
 - 💼 **Technical Skills**:  
   - Programming: `C++`, `Python`, `Java`, `JavaScript`, `Go`  
