@@ -1,7 +1,7 @@
 # 🌟 Urlana Suresh Kumar  
 ![Profile Views](https://komarev.com/ghpvc/?username=usk2003)  
 
-🎓 FInal Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
+🎓 Final Year CSE-AIML Student | 📍 VNR Vignana Jyothi Institute of Engineering and Technology  
 💡 Passionate about Problem Solving, AI/ML, and Full-Stack Development  
 ✨ Currently exploring innovative projects and sharpening coding skills  
 
