@@ -11,7 +11,7 @@ Currently focused on Full-Stack Development, AI/ML, and Real-Time Systems.
 ## About Me  
 
 - EAMCET Rank: 2591  
-- CGPA: 9.01 (till 6th Semester)  
+- CGPA: 9.03 (till &th Semester)  
 - Solved 250+ problems on LeetCode (100+ Hard)  
 - Strong in DSA, OOP, DBMS, OS, CN  
 - Smart Interviews Diamond Coder (Top 4%)  
@@ -30,6 +30,7 @@ C++ | Python | Java | JavaScript | React.js | Node.js | HTML | Tailwind CSS | Mo
 - **StockTraQ** – [AI-powered platform for stock and IPO insights with ML models and RAG chatbot](https://github.com/usk2003/StockTraQ-v2)  
 - **Zenith Dashboard** – [Modern, interactive financial dashboard built with React focusing on fast performance and real-time data updates](https://github.com/usk2003/zenith_zorvyn)
 - **Sanchaari** – [ML-powered recommender that predicts top destinations and optimizes travel itineraries for hyderabad](https://github.com/usk2003/Sanchaari)
+- **NSS VNRVJIET Website** – [Web development project for the National Service Scheme (NSS) chapter at VNRVJIET](https://github.com/usk2003/NSS_Website)
 - **AskMyPaper** – [NLP-based research assistant for summarization and Q&A](https://github.com/usk2003/AskMyPaper)  
 - **AI Virtual Mouse** – [Gesture-controlled mouse system using OpenCV and MediaPipe](https://github.com/usk2003/AI-VirtualMouse)
 - **Real-Time Chat Application** – [Python-based chat app with encryption, passkey-protected server, file sharing, and GUI](https://github.com/usk2003/Real-Time-Chat-Application-Using-TCP-IP)
@@ -72,3 +73,5 @@ C++ | Python | Java | JavaScript | React.js | Node.js | HTML | Tailwind CSS | Mo
 LinkedIn: https://linkedin.com/in/usk2003/  
 GitHub: https://github.com/usk2003  
 Email: urlanasureshkumar@gmail.com  
+
+If you find my work interesting, feel free to explore my repositories.
